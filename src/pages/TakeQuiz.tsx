@@ -34,7 +34,6 @@ const TakeQuiz: React.FC = () => {
   const submitQuiz = () => {
     if (!quiz) return;
 
-    const correctAnswers = quiz.questions.map((q) => q.correctAnswer);
     const userScore = userAnswers.reduce((acc, curr) => {
       const question = quiz.questions.find((q) => q.id === curr.questionId);
       if (question && question.correctAnswer === curr.answer) {
