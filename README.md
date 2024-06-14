@@ -1,30 +1,36 @@
-# React + TypeScript + Vite
+<h1 align="center" id="title">VidyaTech Quiz Portal</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center"><img src="https://socialify.git.ci/LuseBiswas/VidyaTech-Assingmen/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-Currently, two official plugins are available:
+<p id="description">This is a task or assignment given by GlobFluent VidyaTech Pvt. Ltd .</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>🚀 Demo</h2>
 
-## Expanding the ESLint configuration
+[https://6669c98bc55646574e1a1f62--sweet-panda-5e3ef5.netlify.app/](https://6669c98bc55646574e1a1f62--sweet-panda-5e3ef5.netlify.app/)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<h2>Project Screenshots:</h2>
 
-- Configure the top-level `parserOptions` property like this:
+<img src="https://i.postimg.cc/0j5nNt6M/1.png" alt="project-screenshot" width="1000" height="400/">
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+<img src="https://i.postimg.cc/QCs8K7sW-/2.png" alt="project-screenshot" width="1000" height="400/">
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   It has Admin Pannel
+*   You can access the Ongoing Quizzes in Home page
+*   Simple UI
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   ReactJS
+*   Tailwind CSS
+*   Typescript
+*   Netlify
